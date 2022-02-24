@@ -182,19 +182,6 @@
 ### 进行中：
 
 [版本更新说明](https://github.com/CarGuo/GSYGithubAppFlutter/blob/master/VERSION.md)
-
-
-![](http://img.cdn.guoshuyu.cn/thanks.jpg)
-
-
-### LICENSE
-```
-CarGuo/GSYGithubAppFlutter is licensed under the
-Apache License 2.0
-
-A permissive license whose main conditions require preservation of copyright and license notices. 
-Contributors provide an express grant of patent rights. 
-Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 ```
 
 
